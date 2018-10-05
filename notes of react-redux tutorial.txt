@@ -1,0 +1,24 @@
+Notes of React/Redux tutorial
+
+RUN info: go in the right directory and run: npm run dev
+		next step: npm run start to run the server -> open localhost:3000
+
+
+all states of the application combined into one big javascript object
+all the states (coming from diferent object) kept in a same place -> STORE
+
+provider: makes the store available to all the containers
+containers (redux + react connection: fetches data from the store and it passes on the component to render)
+components (react)
+
+actions:90% actions requested by the user like click,... it can be something internal like some process is about to finish, API data is flowing into the app, etc.
+reducer: functions that take an action and decides which part of the store data to change (f.e a reducer called a movie reducer is waiting for an action delete movie and when it happens it deletes part of the state object)
+
+
+webpack file - it actually sets up a server that converts all of the jsx code into pure js and forwards towards client browser. also the same stands for sass and css 
+(basically converts behind the scenes and allows immediate refresh)
+
+- bundle.min.js is automatically generated from the build tool so no need to change it
+
+
+container - think of it as a component linked to a data storage.. so what it does is it makes a mapping between a functional component and a specific part of the state we want to use. Note that this state has to be declared as a variable inside the combineReducer under reducers->index.js
