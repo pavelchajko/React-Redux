@@ -797,7 +797,7 @@ http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/59206
 #EXTINF:-1 tvg-id="" tvg-name="MK044:Sportska TV" tvg-logo="" group-title="EX-YU Macedonia",MK044:Sportska TV
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/59226
 
-#EXTINF:-1 tvg-id="" tvg-name="UK:ANGLISKI SPORTSKI KANALI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK------|SPORT|---------------------------------------.png" group-title="ANGLISKI SPORTSKI KANALI",UK:------|SPORT|---------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="UK:------|SPORT|---------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK------|SPORT|---------------------------------------.png" group-title="UK Sports",UK:------|SPORT|---------------------------------------
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/60643
 #EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="UK014:BT Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="UK Sports",UK014:BT Sport 1
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/2943
@@ -933,8 +933,6 @@ http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28817
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28812
 #EXTINF:-1 tvg-id="" tvg-name="UK248: CELTIC TV (LIVE MATCHES ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK248CELTICTV(LIVEMATCHESONLY).png" group-title="UK Sports",UK248: CELTIC TV (LIVE MATCHES ONLY)
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28811
-#EXTINF:-1 tvg-id="gold.gb" tvg-name="UK249:GOLD FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK249GOLDFHD.png" group-title="UK Ent",UK249:GOLD FHD
-http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28810
 #EXTINF:-1 tvg-id="lfc.gb" tvg-name="UK265:LFC TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK265LFCTV.png" group-title="UK Sports",UK265:LFC TV HD
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28794
 #EXTINF:-1 tvg-id="quest.red.gb" tvg-name="UK288:Quest Red" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK288RedBull.png" group-title="UK Sports",UK288:Quest Red
@@ -953,8 +951,6 @@ http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28740
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28808
 #EXTINF:-1 tvg-id="" tvg-name="UK252:iFollow | EFL 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK252iFollowEFL2.png" group-title="UK Sports",UK252:iFollow | EFL 2
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28807
-#EXTINF:-1 tvg-id="" tvg-name="UK253:iFollow | EFL 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK253iFollowEFL3.png" group-title="UK Ent",UK253:iFollow | EFL 3
-http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28806
 #EXTINF:-1 tvg-id="heart.gb" tvg-name="UK257:iFollow | EFL 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK257iFollowEFL4.png" group-title="UK Sports",UK257:iFollow | EFL 4
 http://ees8.oknirvana.club:8880/12M1726/RJT5X8aHq2/28802
 #EXTINF:-1 tvg-id="" tvg-name="UK260:iFollow | EFL 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK260iFollowEFL5.png" group-title="UK Sports",UK260:iFollow | EFL 5
